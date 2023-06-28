@@ -5,18 +5,13 @@
 - I'm a fast learner, and always strive to complete any task perfectly.<br><br>
 <tr>During my internship At LetsGrowMore, I successfully completed the following four tasks:
 
-### Task-1 : To-Do List WebApp
-https://krishnabalasara.github.io/To-Do-Web-app/
+### Task-1 : To-Do List WebApp https://krishnabalasara.github.io/To-Do-Web-app/
 
-### Task-2 : Create React App
-https://krishnabalasara.github.io/React-app/
+### Task-2 : Create React App https://krishnabalasara.github.io/React-app/
 
-### Task-3 : Enrollment Form
-https://krishnabalasara.github.io/Enrollment-form/
+### Task-3 : Enrollment Form https://krishnabalasara.github.io/Enrollment-form/
 
-### Task-4 : Calculator 
-https://krishnabalasara.github.io/Calc/
-
+### Task-4 : Calculator https://krishnabalasara.github.io/Calc/
 <br><br>
 
 # 🌐 Socials:
