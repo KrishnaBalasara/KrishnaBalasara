@@ -14,13 +14,13 @@
 <br><br><br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KrishnaBalasara&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br><br>
+![](https://github-readme-stats.vercel.app/api?username=KrishnaBalasara&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br><br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaBalasara&theme=radical&hide_border=false)<br/><br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaBalasara&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br><br>
 <br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KrishnaBalasara&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<br><br>
+<br><br><br><br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
