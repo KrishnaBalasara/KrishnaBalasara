@@ -5,8 +5,10 @@
 - I'm a fast learner, and always strive to complete any task perfectly.
 
 <br>
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-balasara-a151a2223/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krishnabalasara0013) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Krishna-Balasara-1) 
+
 <br>
 
 # 💻 Tech Stack:
