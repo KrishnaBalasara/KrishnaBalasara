@@ -1,5 +1,10 @@
 # 💫 About Me:
-Frontend Projects.<br>
+- Hi, I'm Krishna, a Second-year Computer Science Student.
+- I'm passionate about programming and have experience working with Java, C, Python, HTML, CSS, and JavaScript.
+- I have completed a total of 7 tasks during my internships at LetsGrowMore and Oasis Infobyte, read more about it in my blog.[https://medium.com/@krishnabalasara0013](https://medium.com/@krishnabalasara0013)
+- I'm a fast learner, and always strive to complete any task perfectly.
+
+<br>
 
 
 ## 🌐 Socials:
