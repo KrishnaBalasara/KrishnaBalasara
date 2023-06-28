@@ -2,7 +2,21 @@
 - Hi 👋 I'm Krishna Balasara, a Second-year Computer Science Student.
 - I'm Passionate about programming and have experience working with Java, C, Python, HTML, CSS, and JavaScript.
 - I have done 2 Internships in Web Development at LetsGrowMore and Oasis Infobyte in which I have completed a Total of 7 Tasks. Read my blog on this [https://medium.com/@krishnabalasara0013](https://medium.com/@krishnabalasara0013)
-- I'm a fast learner, and always strive to complete any task perfectly.
+- I'm a fast learner, and always strive to complete any task perfectly.<br><br>
+<tr>During my internship At LetsGrowMore, I successfully completed the following four tasks:
+
+### Task-1 : To-Do List WebApp
+https://krishnabalasara.github.io/To-Do-Web-app/
+
+### Task-2 : Create React App
+https://krishnabalasara.github.io/React-app/
+
+### Task-3 : Enrollment Form
+https://krishnabalasara.github.io/Enrollment-form/
+
+### Task-4 : Calculator 
+https://krishnabalasara.github.io/Calc/
+
 <br><br>
 
 # 🌐 Socials:
