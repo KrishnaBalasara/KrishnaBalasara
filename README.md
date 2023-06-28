@@ -1,7 +1,7 @@
 # 💫 About Me:
 - Hi 👋, I'm Krishna Balasara, a Second-year Computer Science Student.
 - I'm passionate about programming and have experience working with Java, C, Python, HTML, CSS, and JavaScript.
-- I have completed a total of 7 tasks during my internships at LetsGrowMore and Oasis Infobyte, read more about it in my blog.[https://medium.com/@krishnabalasara0013](https://medium.com/@krishnabalasara0013)
+- I have done 2 Internships in LetsGrowMore and Oasis Infobyte in which I have completed a Total of 7 Tasks. Read my blog on this [https://medium.com/@krishnabalasara0013](https://medium.com/@krishnabalasara0013)
 - I'm a fast learner, and always strive to complete any task perfectly.
 
 <br>
